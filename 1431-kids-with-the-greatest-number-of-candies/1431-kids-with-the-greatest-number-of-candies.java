@@ -3,7 +3,7 @@ class Solution {
         int n=candies.length;
         int max=candies[0];
         for(int i=0;i<n;i++){
-            if(max<candies[i]){
+            if(max<=candies[i]){
                 max=candies[i];
             }
         }
