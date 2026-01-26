@@ -9,11 +9,7 @@ class Solution {
         }
         List<Boolean> l = new ArrayList<>();
         for(int i=0;i<n;i++){
-            if(max<=candies[i]+extraCandies){
-                l.add(true);
-            }else{
-                l.add(false);
-            }
+            l.add(max<=candies[i]+extraCandies);
         }
         return l;
     }
