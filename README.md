@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
+## Depth-First Search
+|  |
+| ------- |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
