@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyuSharma176/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3489-zero-array-transformation-iv](https://github.com/AyuSharma176/LeetCode/tree/master/3489-zero-array-transformation-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3489-zero-array-transformation-iv](https://github.com/AyuSharma176/LeetCode/tree/master/3489-zero-array-transformation-iv) |
 <!---LeetCode Topics End-->
