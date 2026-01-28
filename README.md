@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyuSharma176/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## String
+|  |
+| ------- |
+| [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
+## Stack
+|  |
+| ------- |
+| [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
 <!---LeetCode Topics End-->
