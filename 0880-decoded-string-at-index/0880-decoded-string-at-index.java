@@ -9,7 +9,6 @@ class Solution {
             }
         }
 
-        System.out.println(len);
         for(int i=s.length()-1;i>=0;i--){
             char ch = s.charAt(i);
             if(Character.isDigit(ch)){
