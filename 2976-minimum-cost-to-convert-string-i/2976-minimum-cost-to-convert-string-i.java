@@ -4,7 +4,6 @@ class Solution {
 
         int INF = (int) 1e9;
         int[][] dist = new int[26][26];
-
         for (int i = 0; i < 26; i++) {
             for (int j = 0; j < 26; j++) {
                 dist[i][j] = (i == j) ? 0 : INF;
@@ -15,7 +14,6 @@ class Solution {
             int v = changed[i] - 'a';
             dist[u][v] = Math.min(dist[u][v], cost[i]);
         }
-
         for (int k = 0; k < 26; k++) {
             for (int i = 0; i < 26; i++) {
                 for (int j = 0; j < 26; j++) {
@@ -35,7 +33,6 @@ class Solution {
             if (dist[s][t] == INF) return -1;
             ans += dist[s][t];
         }
-
         return ans;
     }
 }
