@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyuSharma176/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
