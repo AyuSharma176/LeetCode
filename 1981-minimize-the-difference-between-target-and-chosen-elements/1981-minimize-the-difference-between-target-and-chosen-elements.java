@@ -9,7 +9,14 @@ class Solution {
                     sum.add(x+mat[i][j]);
                 }
             }
-            currsum=sum;
+            List<Integer> list = new ArrayList<>(sum);
+            list.sort(Comparator.comparingInt(a -> Math.abs(a - target)));
+
+            currsum.clear();
+            int limit = Math.min(1000, list.size());
+            for (int k = 0; k < limit; k++) {
+                currsum.add(list.get(k));
+            }
         }
         int min=Integer.MAX_VALUE;
         for(int x: currsum){
