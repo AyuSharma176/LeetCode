@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AyuSharma176/LeetCode/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Depth-First Search
 |  |
@@ -89,9 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
