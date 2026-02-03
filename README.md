@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyuSharma176/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/AyuSharma176/LeetCode/tree/master/3489-zero-array-transformation-iv) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/AyuSharma176/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AyuSharma176/LeetCode/tree/master/0198-house-robber) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/AyuSharma176/LeetCode/tree/master/3489-zero-array-transformation-iv) |
 ## Heap (Priority Queue)
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 <!---LeetCode Topics End-->
