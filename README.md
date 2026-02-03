@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/AyuSharma176/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AyuSharma176/LeetCode/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/AyuSharma176/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AyuSharma176/LeetCode/tree/master/0198-house-robber) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/AyuSharma176/LeetCode/tree/master/3489-zero-array-transformation-iv) |
