@@ -1,39 +1,21 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        if(s1.equals(s2)){
-            return true;
+        int n = s2.length();
+        int diff=0;
+        int first=-1;
+        int second=-1;
+        for(int i=0;i<n;i++){
+           if(s1.charAt(i)!=s2.charAt(i)){
+            diff++;
+           
+           if(diff>2) return false;
+           if(first==-1) first=i;
+           else second=i;
+           }
         }
-        if(s1.equals("bankb")){
-            return false;
-        }
-        int count=0;
-        Set<Character> l1 = new HashSet<>();
-        Set<Character> l2 = new HashSet<>();
-        for(int i=0;i<s2.length();i++){
-            l1.add(s1.charAt(i));
-            l2.add(s2.charAt(i));
-        }
-        if(l1.size()!=l2.size()){
-            return false;
-        }
-        int check=0;
-        for(int i=0;i<s1.length();i++){
-            if(s1.charAt(i)!=s2.charAt(i)){
-                count++;
-            }
-        }
-        for(char ch: l1){
-            if(l2.contains(ch)){
-                check++;
-            }
-        }
-        if(count==2){
-            if(check==l2.size()){
-                return true;
-            }
-        }
+        if(diff==0) return true;
+        if(diff!=2) return false;
+        return (s1.charAt(first)==s2.charAt(second) && s1.charAt(second)==s2.charAt(first));
         
-        return false;
-
     }
 }
