@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyuSharma176/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
+| [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Math
 |  |
