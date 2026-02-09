@@ -4,12 +4,10 @@ class Solution {
         
         for(int i=0;i<mat.length;i++){
             sum+=mat[i][i];
-            System.out.print(mat[i][i]+" ");
         }
         System.out.println();
          for(int i=0;i<mat.length;i++){
             sum+=mat[i][mat.length-1-i];
-            System.out.print(mat[i][mat.length-1-i]+" ");
         }
         if(mat.length%2!=0){
             sum-=mat[(mat.length-1)/2][(mat.length-1)/2];
