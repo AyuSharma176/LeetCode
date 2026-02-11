@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3489-zero-array-transformation-iv](https://github.com/AyuSharma176/LeetCode/tree/master/3489-zero-array-transformation-iv) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/AyuSharma176/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/AyuSharma176/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
