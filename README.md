@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/AyuSharma176/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/AyuSharma176/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Graph Theory
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/AyuSharma176/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/AyuSharma176/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AyuSharma176/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/AyuSharma176/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Trie
 |  |
 | ------- |
