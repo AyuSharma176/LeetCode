@@ -4,7 +4,7 @@ class Solution {
         for(String s: arr){
             map.put(s,map.getOrDefault(s,0)+1);
         }
-        System.out.println(map);
+        // System.out.println(map);
         int count =0;
         // for(Map.Entry<String,Integer> entry: map.entrySet()){
         //     if(entry.getValue()==1){
