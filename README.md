@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/AyuSharma176/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyuSharma176/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyuSharma176/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AyuSharma176/LeetCode/tree/master/0067-add-binary) |
 | [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
+| [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyuSharma176/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyuSharma176/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
