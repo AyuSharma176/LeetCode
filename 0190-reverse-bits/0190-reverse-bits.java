@@ -11,7 +11,7 @@ class Solution {
             sb.append(0);
         }
     
-        System.out.println(sb.toString());
+        // System.out.println(sb.toString());
         int ans=0;
         int p=0;
         for(int i=sb.length()-1;i>=0;i--){
