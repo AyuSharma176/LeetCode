@@ -1,11 +1,10 @@
 class Solution {
     public boolean hasAlternatingBits(int n) {
-       
         int prev=n&1;
         n=n>>1;
         while(n>0){
             int curr = n&1;
-            System.out.println(prev+" "+curr);
+           
             if(prev==curr){
                 return false;
             }
