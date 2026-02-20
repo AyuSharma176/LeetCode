@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
+| [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AyuSharma176/LeetCode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/AyuSharma176/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyuSharma176/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AyuSharma176/LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/AyuSharma176/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
