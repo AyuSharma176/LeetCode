@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AyuSharma176/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/AyuSharma176/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/AyuSharma176/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AyuSharma176/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/AyuSharma176/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/AyuSharma176/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AyuSharma176/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AyuSharma176/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/AyuSharma176/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/AyuSharma176/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AyuSharma176/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/AyuSharma176/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/AyuSharma176/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
