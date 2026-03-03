@@ -8,7 +8,7 @@ public:
         int mid = (len / 2) + 1;
         if (k == mid)
             return '1';
-        if (k<mid) {
+        if (k < mid) {
             return findKthBit(n - 1, k);
         }
         char ch = findKthBit(n - 1, len - k + 1);
