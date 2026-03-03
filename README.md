@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/AyuSharma176/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AyuSharma176/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/AyuSharma176/LeetCode/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyuSharma176/LeetCode/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
