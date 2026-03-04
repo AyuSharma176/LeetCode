@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyuSharma176/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AyuSharma176/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AyuSharma176/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Math
 |  |
