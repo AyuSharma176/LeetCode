@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AyuSharma176/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AyuSharma176/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1615-maximal-network-rank](https://github.com/AyuSharma176/LeetCode/tree/master/1615-maximal-network-rank) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyuSharma176/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
