@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyuSharma176/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyuSharma176/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyuSharma176/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyuSharma176/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyuSharma176/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Depth-First Search
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AyuSharma176/LeetCode/tree/master/0881-boats-to-save-people) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyuSharma176/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Linked List
 |  |
