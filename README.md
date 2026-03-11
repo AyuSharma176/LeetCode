@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AyuSharma176/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyuSharma176/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AyuSharma176/LeetCode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Graph Theory
@@ -271,12 +272,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AyuSharma176/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AyuSharma176/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
