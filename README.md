@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AyuSharma176/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/AyuSharma176/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AyuSharma176/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AyuSharma176/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyuSharma176/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AyuSharma176/LeetCode/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AyuSharma176/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/AyuSharma176/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
