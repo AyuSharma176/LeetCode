@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AyuSharma176/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/AyuSharma176/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyuSharma176/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AyuSharma176/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AyuSharma176/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AyuSharma176/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AyuSharma176/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1345-jump-game-iv](https://github.com/AyuSharma176/LeetCode/tree/master/1345-jump-game-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyuSharma176/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/AyuSharma176/LeetCode/tree/master/1345-jump-game-iv) |
 | [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AyuSharma176/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
