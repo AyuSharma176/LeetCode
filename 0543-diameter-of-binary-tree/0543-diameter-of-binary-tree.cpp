@@ -11,20 +11,24 @@
  */
 class Solution {
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        if(root==nullptr){
-            return 0;
-        }
+    struct diapair{
+        int ht=-1;
+        int dt=0;
+    };
 
-        int ld=diameterOfBinaryTree(root->left);
-        int rd=diameterOfBinaryTree(root->right);
-        int sd=height(root->left)+height(root->right)+2;
-        return max(sd,max(rd,ld));
-    }
-    int height(TreeNode* root){
+    diapair diameter(TreeNode* root){
         if(root==nullptr){
-            return -1;
+            return diapair();
         }
-        return max(height(root->left),height(root->right))+1;
+        diapair ldp= diameter(root->left);
+        diapair rdp= diameter(root->right);
+        int sd=ldp.ht+rdp.ht+2;
+        diapair sdp;
+        sdp.dt=max(sd,max(ldp.dt,rdp.dt));
+        sdp.ht=max(ldp.ht,rdp.ht)+1;
+        return sdp;
+    }
+    int diameterOfBinaryTree(TreeNode* root) {
+        return diameter(root).dt;
     }
 };
