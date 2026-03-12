@@ -13,19 +13,16 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        set<int> set;
-        kth(root, set);
-        auto it = set.begin();
-        advance(it, k-1);
-
-        return *it;
+        vector<int> ans;
+        kth(root, ans);
+        return ans[k-1];
     }
-    void kth(TreeNode* root, set<int>& set) {
+    void kth(TreeNode* root, vector<int>& ans) {
         if (root == nullptr) {
             return;
         }
-        set.insert(root->val);
-        kth(root->left, set);
-        kth(root->right, set);
+        kth(root->left, ans);
+        ans.push_back(root->val);
+        kth(root->right, ans);
     }
 };
