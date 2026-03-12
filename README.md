@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AyuSharma176/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyuSharma176/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AyuSharma176/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyuSharma176/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Segment Tree
@@ -381,4 +383,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyuSharma176/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
