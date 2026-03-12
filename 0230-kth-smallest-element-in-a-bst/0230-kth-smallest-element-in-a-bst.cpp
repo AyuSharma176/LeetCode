@@ -18,11 +18,19 @@ public:
         return ans[k-1];
     }
     void kth(TreeNode* root, vector<int>& ans) {
-        if (root == nullptr) {
-            return;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode* rv=q.front();q.pop();
+
+                
+                if(rv->left!=nullptr) q.push(rv->left);
+                ans.push_back(rv->val);
+                if(rv->right!=nullptr) q.push(rv->right);
+            }
         }
-        kth(root->left, ans);
-        ans.push_back(root->val);
-        kth(root->right, ans);
+        sort(ans.begin(),ans.end());
     }
 };
