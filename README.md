@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AyuSharma176/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/AyuSharma176/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AyuSharma176/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AyuSharma176/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AyuSharma176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1367-linked-list-in-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Segment Tree
