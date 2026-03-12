@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyuSharma176/LeetCode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/AyuSharma176/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0525-contiguous-array](https://github.com/AyuSharma176/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/AyuSharma176/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/AyuSharma176/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/AyuSharma176/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AyuSharma176/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
