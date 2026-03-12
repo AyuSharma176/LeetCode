@@ -17,12 +17,9 @@ public:
         return ans;
     }
     int maxsum(TreeNode* root){
-        if(root==nullptr){
-            return 0;
-        }
-        
-        int left=max(0,maxsum(root->left));
-        int right=max(0,maxsum(root->right));
+        if(root==nullptr) return 0;
+        int left = max(0,maxsum(root->left));
+        int right = max(0,maxsum(root->right));
         ans=max(ans,left+root->val+right);
         return root->val+max(left,right);
     }
