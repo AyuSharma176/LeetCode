@@ -2,6 +2,8 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord,
                      vector<string>& wordList) {
+                        unordered_set<string> wordSet(wordList.begin(), wordList.end());
+        if (!wordSet.count(endWord)) return 0;
         queue<string> q;
         q.push(beginWord);
         unordered_set<string> visited;
