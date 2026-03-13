@@ -13,15 +13,17 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         if (root == NULL)
             return NULL;
-        if(root==p) return root;
-        else if(root==q) return root;
-        else if((root->val > p->val && root->val < q->val)||(root->val<p->val && root->val > q->val)) return root;
+        if (root == p)
+            return root;
+        else if (root == q)
+            return root;
+        else if ((root->val > p->val && root->val < q->val) ||
+                 (root->val < p->val && root->val > q->val))
+            return root;
         else if (root->val < p->val && root->val < q->val)
-            return lowestCommonAncestor(root->right,p,q);
+            return lowestCommonAncestor(root->right, p, q);
         else if (root->val > p->val && root->val > q->val)
-            return lowestCommonAncestor(root->left,p,q);
+            return lowestCommonAncestor(root->left, p, q);
         return root;
-
-        
     }
 };
