@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyuSharma176/LeetCode/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/AyuSharma176/LeetCode/tree/master/0127-word-ladder) |
 | [0696-count-binary-substrings](https://github.com/AyuSharma176/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AyuSharma176/LeetCode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/AyuSharma176/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AyuSharma176/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AyuSharma176/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AyuSharma176/LeetCode/tree/master/0200-number-of-islands) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/AyuSharma176/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AyuSharma176/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
