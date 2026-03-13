@@ -12,36 +12,15 @@
 class Solution {
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return create(preorder);
+        int ptr=0;
+        return create(INT_MAX,ptr,preorder);
     }
-    TreeNode* create(vector<int>& nums){
-        if(nums.size()<=0){
-            return nullptr;
-        }
-        TreeNode* nn= new TreeNode();
-        nn->val=nums[0];
-        vector<int> left=leftarr(nums,nums[0]);
-        vector<int> right=rightarr(nums,nums[0]);
-        nn->left=create(left);
-        nn->right=create(right);
+    TreeNode* create(int up,int& ptr,vector<int>& preorder){
+        if(ptr==preorder.size()  || preorder[ptr] >= up) return NULL;
+
+        TreeNode* nn=new TreeNode(preorder[ptr++]);
+        nn->left=create(nn->val,ptr,preorder);
+        nn->right=create(up,ptr,preorder);
         return nn;
-    }
-    vector<int> leftarr(vector<int>& nums,int r){
-        vector<int> ans;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]<r){
-                ans.push_back(nums[i]);
-            }
-        }
-        return ans;
-    }
-    vector<int> rightarr(vector<int>& nums,int r){
-        vector<int> ans;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]>r){
-                ans.push_back(nums[i]);
-            }
-        }
-        return ans;
     }
 };
