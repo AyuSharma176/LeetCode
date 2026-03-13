@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AyuSharma176/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AyuSharma176/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/AyuSharma176/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyuSharma176/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyuSharma176/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AyuSharma176/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AyuSharma176/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AyuSharma176/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyuSharma176/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyuSharma176/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AyuSharma176/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AyuSharma176/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AyuSharma176/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AyuSharma176/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/AyuSharma176/LeetCode/tree/master/0310-minimum-height-trees) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AyuSharma176/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AyuSharma176/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AyuSharma176/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AyuSharma176/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/AyuSharma176/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AyuSharma176/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
