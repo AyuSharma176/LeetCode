@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AyuSharma176/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AyuSharma176/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/AyuSharma176/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/AyuSharma176/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/AyuSharma176/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyuSharma176/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyuSharma176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/AyuSharma176/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/AyuSharma176/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/AyuSharma176/LeetCode/tree/master/1345-jump-game-iv) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyuSharma176/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/AyuSharma176/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyuSharma176/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AyuSharma176/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
