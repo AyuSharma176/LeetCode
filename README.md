@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AyuSharma176/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyuSharma176/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AyuSharma176/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AyuSharma176/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/AyuSharma176/LeetCode/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyuSharma176/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/AyuSharma176/LeetCode/tree/master/1436-destination-city) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AyuSharma176/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AyuSharma176/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AyuSharma176/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyuSharma176/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyuSharma176/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AyuSharma176/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
