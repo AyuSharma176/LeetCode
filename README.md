@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyuSharma176/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/AyuSharma176/LeetCode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/AyuSharma176/LeetCode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyuSharma176/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/AyuSharma176/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/AyuSharma176/LeetCode/tree/master/0761-special-binary-string) |
 | [0880-decoded-string-at-index](https://github.com/AyuSharma176/LeetCode/tree/master/0880-decoded-string-at-index) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AyuSharma176/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyuSharma176/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyuSharma176/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyuSharma176/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/AyuSharma176/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AyuSharma176/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AyuSharma176/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyuSharma176/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyuSharma176/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AyuSharma176/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AyuSharma176/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AyuSharma176/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
